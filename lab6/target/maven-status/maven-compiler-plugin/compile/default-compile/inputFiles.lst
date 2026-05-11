@@ -1,0 +1,13 @@
+C:\Users\Андрей\IdeaProjects\lab5\src\main\java\org\example\lab5\controller\NotificationController.java
+C:\Users\Андрей\IdeaProjects\lab5\src\main\java\org\example\lab5\controller\UserController.java
+C:\Users\Андрей\IdeaProjects\lab5\src\main\java\org\example\lab5\Lab4Application.java
+C:\Users\Андрей\IdeaProjects\lab5\src\main\java\org\example\lab5\model\dto\NotificationDto.java
+C:\Users\Андрей\IdeaProjects\lab5\src\main\java\org\example\lab5\model\dto\UserDto.java
+C:\Users\Андрей\IdeaProjects\lab5\src\main\java\org\example\lab5\model\entity\Notification.java
+C:\Users\Андрей\IdeaProjects\lab5\src\main\java\org\example\lab5\model\entity\User.java
+C:\Users\Андрей\IdeaProjects\lab5\src\main\java\org\example\lab5\model\enums\NotificationChannel.java
+C:\Users\Андрей\IdeaProjects\lab5\src\main\java\org\example\lab5\model\enums\NotificationStatus.java
+C:\Users\Андрей\IdeaProjects\lab5\src\main\java\org\example\lab5\repository\NotificationRepository.java
+C:\Users\Андрей\IdeaProjects\lab5\src\main\java\org\example\lab5\repository\UserRepository.java
+C:\Users\Андрей\IdeaProjects\lab5\src\main\java\org\example\lab5\service\NotificationService.java
+C:\Users\Андрей\IdeaProjects\lab5\src\main\java\org\example\lab5\service\UserService.java

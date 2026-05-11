@@ -1,0 +1,15 @@
+org\example\lab5\service\UserService.class
+org\example\lab5\service\NotificationService.class
+org\example\lab5\repository\UserRepository.class
+org\example\lab5\controller\NotificationController.class
+org\example\lab5\model\entity\User.class
+org\example\lab5\model\dto\UserDto.class
+org\example\lab5\repository\NotificationRepository.class
+org\example\lab5\model\dto\NotificationDto.class
+org\example\lab5\model\entity\Notification.class
+org\example\lab5\controller\UserController.class
+org\example\lab5\model\enums\NotificationStatus.class
+org\example\lab5\model\dto\NotificationDto$NotificationDtoBuilder.class
+org\example\lab5\model\dto\UserDto$UserDtoBuilder.class
+org\example\lab5\model\enums\NotificationChannel.class
+org\example\lab5\Lab4Application.class
